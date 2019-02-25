@@ -15,3 +15,6 @@
 結果範例
 ----
 附件 result 即為一次反算的結果範例。
+
+
+作者信箱 : chenargar@gmail.com
