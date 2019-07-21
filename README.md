@@ -1,4 +1,4 @@
-# PSOxANSYSxMatlab
+# PSO x ANSYS x Matlab
 
 > *本程式用途為利用自然 (共振) 頻率來反算材料參數，使用 ANSYS 計算頻率，主程式使用 Matlab 撰寫，演算法以粒子群演算法 (PSO) 為基礎，並加入了 "回溯" 與 "激發" 機制，嘗試解決粒子陷入區域極值之情形。* 
 
